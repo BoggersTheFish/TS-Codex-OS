@@ -1,0 +1,15 @@
+{
+  "project_name": "TS-Reasoner-v0",
+  "public_ladder": [
+    "v0.1.0 deterministic trace contract",
+    "v0.2.0 learned tension-ranker experiment",
+    "v0.3.0 learned candidate-proposal branch"
+  ],
+  "expected_checks": [
+    "preserve ReasonerOutput schema",
+    "keep learned components caveated",
+    "write release receipts",
+    "run unittest discovery"
+  ]
+}
+

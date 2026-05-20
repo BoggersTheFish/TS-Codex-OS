@@ -1,0 +1,19 @@
+{
+  "project_name": "sample",
+  "nodes": [
+    {
+      "node_id": "repo",
+      "kind": "repo",
+      "title": "sample",
+      "status": "observed",
+      "stability": 0.7,
+      "metadata": {}
+    }
+  ],
+  "edges": [],
+  "tensions": [],
+  "metadata": {
+    "schema": "ts-codex-os.project_graph.v0"
+  }
+}
+

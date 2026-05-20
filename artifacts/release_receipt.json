@@ -1,0 +1,18 @@
+{
+  "action_title": "Add focused unittest coverage",
+  "changed_files": [
+    "tests/test_demo.py"
+  ],
+  "next_actions": [
+    "Add focused unittest coverage"
+  ],
+  "project_name": "demo-ts-project",
+  "receipt_id": "receipt:demo-ts-project:add_focused_unittest_coverage",
+  "remaining_tensions": [
+    "missing_tests"
+  ],
+  "verification_commands": [
+    "python3 -m unittest discover"
+  ],
+  "verification_result": "demo receipt; not run"
+}
