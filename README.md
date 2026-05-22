@@ -1,5 +1,15 @@
 # TS-Codex-OS
 
+**Status:** flagship local-first project-control substrate.
+
+**Role in the TS stack:** TS-Codex-OS turns a repository into a local project graph with a tension ledger, planner, memory, verifier suggestions, and release receipts.
+
+**What this repo is:** a local-first control layer for Codex-driven development: it ingests project files, detects release/control tensions, proposes next actions, writes receipts, and keeps project state inspectable.
+
+**What this repo is not:** not an autonomous coding agent, not a replacement for Codex, not an LLM API caller, and not a production project-management platform.
+
+**Start here:** run the demo, inspect the generated artifacts, then read the release notes and receipts.
+
 TS-Codex-OS is a local-first project graph and tension engine for Codex-driven development.
 
 Codex remains the coding executor. TS-Codex-OS is the local knowledge substrate around it: project graph, tension ledger, release verifier, receipt writer, and persistent memory layer.
