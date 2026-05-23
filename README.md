@@ -2,6 +2,8 @@
 
 **Status:** flagship local-first project-control substrate.
 
+**Canonical route:** [TS-Start-Here](https://github.com/BoggersTheFish/TS-Start-Here) -> [TS-Reasoner-v0](https://github.com/BoggersTheFish/TS-Reasoner-v0) -> [TensionLM](https://github.com/BoggersTheFish/TensionLM) -> TS-Codex-OS / TS-Core / CIG.
+
 **Role in the TS stack:** TS-Codex-OS turns a repository into a local project graph with a tension ledger, planner, memory, verifier suggestions, and release receipts.
 
 **What this repo is:** a local-first control layer for Codex-driven development: it ingests project files, detects release/control tensions, proposes next actions, writes receipts, and keeps project state inspectable.
